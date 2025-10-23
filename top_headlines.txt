@@ -1,0 +1,32 @@
+TOP 10 TECH NEWS HEADLINES
+
+1. Google flags Immich sites as dangerous (823 points)
+https://immich.app/blog/google-flags-immich-as-dangerous
+
+2. Scripts I wrote that I use all the time (812 points)
+https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/
+
+3. Willow quantum chip demonstrates verifiable quantum advantage on hardware (430 points)
+https://blog.google/technology/research/quantum-echoes-willow-verifiable-quantum-advantage/
+
+4. Accessing Max Verstappen's passport and PII through FIA bugs (421 points)
+https://ian.sh/fia
+
+5. JMAP for Calendars, Contacts and Files Now in Stalwart (323 points)
+https://stalw.art/blog/jmap-collaboration/
+
+6. Ovi: Twin backbone cross-modal fusion for audio-video generation (283 points)
+https://github.com/character-ai/Ovi
+
+7. Karpathy on DeepSeek-OCR paper: Are pixels better inputs to LLMs than text? (253 points)
+https://twitter.com/karpathy/status/1980397031542989305
+
+8. VST3 audio plugin format is now MIT (205 points)
+https://forums.steinberg.net/t/vst-3-8-0-sdk-released/1011988
+
+9. Rivian's TM-B electric bike (196 points)
+https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad
+
+10. Element: setHTML() method (178 points)
+https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML
+
